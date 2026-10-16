@@ -1,8 +1,8 @@
 
-## Toma de Decisiones
+# Toma de Decisiones
 
-# Clase 1
+## Clase 1
 
-# Clase 4
+## Clase 4
 
-# Clase 6
+## Clase 6
