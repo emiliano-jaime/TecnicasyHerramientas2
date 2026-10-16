@@ -1,21 +1,4 @@
-# IA Generativa
-
-Profesora: Ing. Selva S. Rivera
-
-Herramienta: NotebookLM
-
-**¿Qué es la Inteligencia Artificial?**
-
-Algoritmos que procesan datos. Ocurre un procedimiento estocástico avanzado que opera en un espacio vectorial de alta dimensión. Obtenemos resultados probabilísticos.
-1. *Tokenización:* la discretización del lenguaje. Muestreo y Cuantización. Word gasta muchos tokens, por los códigos ocultos que también lee. El lenguaje que menos tokens gasta es el Markdown.
-2. *Embeddings:* el espacio vectorial. Cada token  se convierte en un vector. El transformer no lee en forma secuencial, sino que relaciona todo en conjunto.
-3. *Generación:* el proceso estocástico. Un calculo de probabilidades para predecir los próximos tokens. Al aumentar una variable T llamada temperatura del calculo de probabilidad se puede alejar de nuestra respuesta o acercarse, aumentamos el rango en lo que busca. Le da probabilidades a todos los tokens y hace un ranking, y de todas las posibilidades una vez devuelve una y la siguiente otra.
-
-Red neuronal Transformer. 
-
-**¿Cómo utilizarla?**
-* Es importante el prompt.
-* No colocar "Por favor" si que# 📚 Clase 2: IA Generativa
+# 📚 Clase 2: IA Generativa
 
 **Profesora:** Ing. Selva S. Rivera  
 **Herramienta principal:** NotebookLM  
