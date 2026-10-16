@@ -1,5 +1,6 @@
 
 ## Asistente de Redacción con IA para planes y proyectos.
+## Taller complementario fotografía forense digital.
 
 # Clase 2
 
