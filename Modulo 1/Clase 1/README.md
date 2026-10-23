@@ -1,71 +1,81 @@
-## Proyecto de...
+# 📚 Clase 1: Proyectos
 
-Planteamiento de estructura
+---
 
-* Capítulo 1: Problemas y Conceptos Generales
+## 📌 Resumen de la Clase
 
-* Capítulo 2: Estudio del Mercado
+En esta primera sesión se abordaron las metodologías y marcos de referencia fundamentales para el desarrollo y la gestión integral de proyectos. 
 
-* Capítulo 3: Ingeniería del Proyecto
+* **Metodologías de Formulación:** Se analizaron distintas metodologías de diseño y evaluación, tomando como referencia literatura especializada y manuales internacionales, como los del ámbito de desarrollo regional y guías de formulación de proyectos de Estados Unidos.
+* **Brainstorming de Ideas:** Se debatieron diversas problemáticas locales e industriales para proponer alternativas de proyectos viables en la región de Mendoza.
+* **Planteamiento de Estructura:** Se definieron los capítulos estándar que conforman el cuerpo principal para la evaluación técnica, económica y financiera de un proyecto de ingeniería.
 
-* Capítulo 4: Tamaño y Localización de los Proyectos
+---
 
-* Capítulo 5: Las Inversiones en el Proyecto
+## 📐 Estructura Estándar del Proyecto
 
-* Capítulo 6: El Presupuesto de Ingresos y Gastos y la Ordenación de los Datos Básicos para la Evaluación
+La formulación del informe de proyecto se estructura en los siguientes capítulos:
 
-* Capítulo 7: Financiamiento y Organización
+1. **Capítulo 1:** Problemas y Conceptos Generales
+2. **Capítulo 2:** Estudio del Mercado
+3. **Capítulo 3:** Ingeniería del Proyecto
+4. **Capítulo 4:** Tamaño y Localización del Proyecto
+5. **Capítulo 5:** Las Inversiones en el Proyecto
+6. **Capítulo 6:** El Presupuesto de Ingresos y Gastos (Ordenación de Datos Básicos para Evaluación)
+7. **Capítulo 7:** Financiamiento y Organización
+8. **Capítulo 8:** Resumen y Presentación del Proyecto
 
-* Capítulo 8: Resumen y Presentación de Proyecto 
+---
 
-# Ideas
-* Optimización del uso de agua en Mendoza (referido a la industria minera)
-* Tinder de Cargas
-* Pellets de Biomasa Mixtos (Vid + Tomate) :tomato: + :grapes: = :herb: :  
+## 💡 Ideas de Proyecto Debatidas
 
+* **Optimización Hídrica:** Eficiencia en el uso del agua en la industria minera de Mendoza.
+* **Logística:** Plataforma tipo "Tinder de Cargas" para optimización del transporte de mercancías.
+* **Economía Circular / Agroindustria:** Pellets de Biomasa Mixtos (Vid + Tomate) 🍇 + 🍅 $\rightarrow$ 🌿
 
-## <u>Pellets de Biomasa Mixtos (Vid + Tomate): Energía Renovable para Mendoza</u>
+---
 
-<p align="center">
-  <img width="300" height="200" alt="Pellets de Biomasa Mixtos como Fertilizante" src="https://github.com/user-attachments/assets/9918357a-0fa7-48f6-ae09-23828c027522" />
-  <br />
-  <sub><em>Pellets Mixtos de Biomasa</em></sub>
-</p>
+## 🌿 Propuesta Seleccionada: Pellets de Biomasa Mixtos (Vid + Tomate)
 
-# <u>El Problema<u>
-Las bodegas y conserveras de Mendoza generan miles de toneladas de escobajo de uva y descarte de tomate, pagando altos costos para desecharlos como basura. Al mismo tiempo, los suelos agrícolas de la región sufren una severa falta de materia orgánica y baja retención de agua, lo que obliga a los productores a gastar fortunas en fertilizantes sintéticos importados y abonos químicos.
+> **Energía Renovable y Acondicionamiento Agrícola para Mendoza**
 
-# <u>Podría funcionar así:<u>
+![Pellets Mixtos de Biomasa](https://github.com/user-attachments/assets/9918357a-0fa7-48f6-ae09-23828c027522)  
+*Pellets Mixtos de Biomasa*
 
-Residuos (escobajo + tomate) → recolección y acopio → secado → molienda → peletización → empaque → aplicación agrícola
+### 🔴 El Problema
+Las bodegas y conserveras de Mendoza generan miles de toneladas de **escobajo de uva** y **descarte de tomate**, afrontando altos costos para su disposición final como residuos. En paralelo, los suelos agrícolas de la región presentan una severa disminución de materia orgánica y baja capacidad de retención hídrica, obligando a los productores a depender de fertilizantes sintéticos importados y abonos químicos de elevado costo.
 
-# <u>La Solución<u>
+---
 
-Diseñar una planta de procesamiento y peletización que transforme la mezcla de escobajo de uva y residuo de tomate en un pellet orgánico fertilizante y acondicionador de suelos.
+### 🔄 Diagrama del Proceso Proposto
 
--El escobajo aporta fibra, carbono y estructura de liberación lenta para el suelo.
+$$\text{Residuos (Escobajo + Tomate)} \longrightarrow \text{Recolección/Acopio} \longrightarrow \text{Secado} \longrightarrow \text{Molienda} \longrightarrow \text{Peletización} \longrightarrow \text{Empaque} \longrightarrow \text{Aplicación Agrícola}$$
 
--El tomate aporta Nitrógeno, Fósforo, Potasio ($NPK$) y nutrientes concentrados.
+---
 
--Se aplican directamente en las hileras de cultivos y viñedos con maquinaria agrícola estándar, disolviéndose gradualmente con el riego.
+### 🟢 La Solución
+Diseñar una planta de procesamiento y peletización para transformar la mezcla de escobajo de uva y residuo de tomate en un **pellet orgánico fertilizante y acondicionador de suelos**.
 
- # <u>Beneficios<u>
--Económico: Genera un insumo agrícola local de menor costo que los fertilizantes químicos importados.
+* **Escobajo de uva:** Aporta fibra, carbono y una estructura de liberación lenta para el suelo.
+* **Residuo de tomate:** Aporta Nitrógeno, Fósforo, Potasio ($NPK$) y micronutrientes concentrados.
+* **Aplicación:** Incorporación directa en hileras de cultivos y viñedos mediante maquinaria agrícola estándar, disolviéndose de manera gradual con el riego.
 
--Agronómico: Aumenta la retención de agua en el suelo (clave para la escasez hídrica) y restituye la fertilidad natural de la tierra.
+---
 
--Ambiental y Logístico: Elimina basurales orgánicos (Economía Circular) y facilita el transporte/aplicación del abono al estar comprimido en pellets sin generar olor ni polvo.
+### 🌟 Beneficios del Proyecto
 
- # <u>A determinar<u>
- 
-Evaluar la viabilidad de una planta para convertir residuos en un fertilizante peletizado rentable que reemplace insumos sintéticos.
+* **Económico:** Generación de un insumo agrícola local de menor costo frente a los fertilizantes químicos importados.
+* **Agronómico:** Mejora la retención de agua en el suelo (aspecto crítico ante la escasez hídrica) y restituye la materia orgánica natural.
+* **Ambiental y Logístico:** Reducción de basurales orgánicos industriales mediante **Economía Circular** y facilitación del transporte/almacenamiento mediante la densificación en pellets (sin polvos ni olores).
 
--Mezcla óptima: porcentaje de escobajo (fibra/estructura) y tomate (nutrientes) para un pellet de alta calidad
+---
 
--Maquinaria y proceso: selección del secador, molinos, peletizadora y empaquetadora.
+### 🎯 Aspectos a Determinar en la Evaluación
 
--Localización y logística: ubicación estratégica de la planta para minimizar fletes desde bodegas y conserveras.
+Para determinar la factibilidad técnica y económica de la planta, se deben analizar las siguientes variables:
 
--Análisis económico: inversión, costo por tonelada,precio de venta y tiempo de retorno.
-
--Impacto ambiental: residuos recuperados y mejora en la retención de agua de los suelos.
+1. **Mezcla Óptima:** Porcentaje ideal de escobajo (estructura/fibra) y tomate (nutrientes) para un pellet de alta calidad.
+2. **Ingeniería del Proceso:** Selección de tecnología para secado, molinos, peletizadoras y líneas de empaque.
+3. **Localización y Logística:** Ubicación estratégica para reducir fletes desde las plantas generadoras de residuos.
+4. **Análisis Económico:** Cómputo de inversión inicial, costo operativo por tonelada, precio competitivo de venta y período de recuperación ($Payback$).
+5. **Impacto Ambiental:** Volumen total de residuos valorizados y balance hídrico del suelo beneficiado.
