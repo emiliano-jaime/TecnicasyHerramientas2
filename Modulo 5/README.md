@@ -1,3 +1,3 @@
-## Dinámica de Sistemas
+# Dinámica de Sistemas
 
 ## Clase 9
